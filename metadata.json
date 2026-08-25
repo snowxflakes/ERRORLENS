@@ -1,0 +1,6 @@
+{
+  "name": "ErrorLens - Programming Error Understanding Platform",
+  "description": "An interactive educational developer tool designed to help students and programmers understand why programming errors happen, how to fix them, and master core concepts across C, C++, Python, Java, and JavaScript.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
